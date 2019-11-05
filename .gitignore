@@ -1,0 +1,16 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# idea
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+
+# Gradle
+.gradle
+!gradle-wrapper.jar
+
+# build
+build
