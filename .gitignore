@@ -14,3 +14,7 @@
 
 # build
 build
+
+# npm
+node_modules/
+package-lock.json
